@@ -1,5 +1,7 @@
 # KAVe
 
+The KAVe tool is a Knowledge-based Multi-Agent System designed for web vulnerability detection. It operates by employing a multi-layer knowledge graph (MLKG) combined with a multi-agent system (MAS) to effectively and efficiently identify vulnerabilities in web applications. This approach allows KAVe to analyze the interconnected representations of the application's source code, including lexical and semantic features, data and control flows, and function calls, while integrating security properties associated with vulnerabilities. The MAS component enables dynamic and autonomous vulnerability detection through static taint analysis, leveraging the MLKG to pinpoint potential security issues. The tool has demonstrated high precision and efficiency in detecting vulnerabilities, notably in PHP web applications, by reducing false positives and optimizing the detection process.
+
 # Installation
 
 Download the code into your desired location.
